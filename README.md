@@ -1,4 +1,4 @@
-# Final_year_project
+![image](https://github.com/priyanthan07/Final_year_project/assets/129021635/b3be148f-a58e-4158-9886-a680ff01a510)# Final_year_project
 COORDINATION OF PV SMART INVERTERS FOR GRID  VOLTAGE REGULATION.
 
 ---------------------------------------------------------------------------------------------
@@ -20,4 +20,9 @@ simulations to learn its policy and can adjust to load and solar variations. The
 DRL agent is compared with the local autonomous control on the IEEE 37 node system with 
 countless situations. The results demonstrate that a properly educated DRL agent is capable of 
 intelligently coordinating various SIs to keep grid voltage within permissible limits, reduce PV 
-production curtailment, and reduce system losses
+production curtailment, and reduce system losses.
+
+BASE_LINE:
+-----------------------------------------------------------------------------------------------
+
+![Capture](https://github.com/priyanthan07/Final_year_project/assets/129021635/58d7807f-8e94-43a5-b2bc-b803cf934f24)
