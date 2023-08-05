@@ -1,5 +1,7 @@
 # Final_year_project
-COORDINATION OF PV SMART INVERTERS FOR GRID  VOLTAGE REGULATION
+COORDINATION OF PV SMART INVERTERS FOR GRID  VOLTAGE REGULATION.
+
+---------------------------------------------------------------------------------------------
 Due to the variable and intermittent nature of solar photovoltaic(PV), its adoption is growing, 
 posing new issues for the modern power system. The grid's voltage operation restrictions may be 
 exceeded by fluctuating PV generation outputs. By adjusting active and/or reactive power at the 
