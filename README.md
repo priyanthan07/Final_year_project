@@ -1,4 +1,4 @@
-![image](https://github.com/priyanthan07/Final_year_project/assets/129021635/b3be148f-a58e-4158-9886-a680ff01a510)# Final_year_project
+# Final_year_project
 COORDINATION OF PV SMART INVERTERS FOR GRID  VOLTAGE REGULATION.
 
 ---------------------------------------------------------------------------------------------
